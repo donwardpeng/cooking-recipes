@@ -1,4 +1,6 @@
-# INGREDIENTS
+# Pad Thai
+
+## INGREDIENTS
 - Kosher salt
 - 1 Package of wide rice noodles
 - 8 tbsp. lime juice
@@ -15,10 +17,10 @@
 - 1/4 c. roasted peanuts, chopped
 - 2 carrots, thinly sliced
 - 1 package of bean sprouts
+
+
  
- ---
- 
-# DIRECTIONS
+## DIRECTIONS
 
 1. In a large pot of salted boiling water, cook noodles until al dente. Drain.
 

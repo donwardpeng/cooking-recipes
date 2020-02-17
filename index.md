@@ -1,4 +1,4 @@
-## Don Ward Family Recipes
+## Recipes
 
 * [Pad Thai](/pad-thai.md)
 

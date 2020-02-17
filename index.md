@@ -1,4 +1,4 @@
 ## Don Ward Family Recipes
 
-[Pad Thai](https://github.com/donwardpeng/cooking-recipes/blob/master/pad-thai.md)
+[Pad Thai](https://donwardpeng.github.io/cooking-recipes/pad-thai.md)
 
